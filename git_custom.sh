@@ -5,5 +5,5 @@ git add .
 
 git commit -m  "Up"
 
-echo "ErikHorus1249\1421999@gmail.com" | git push
+git push <<<$(printf "ErikHorus1249\1421999@Tuananh")
 
