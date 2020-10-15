@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd $PWD
 
 git add .
 
