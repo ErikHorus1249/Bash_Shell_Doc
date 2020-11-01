@@ -4,7 +4,7 @@ cd $PWD
 
 git add .
 
-git commit -m  "Up"
+git commit -m  "Up" --date "$(date)"
 
 git push
  
